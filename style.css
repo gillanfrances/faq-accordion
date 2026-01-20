@@ -54,7 +54,8 @@ h2 {
 
 .question {
     border-bottom: 1px solid #f9f0ff;
-    padding: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .faq-question {
